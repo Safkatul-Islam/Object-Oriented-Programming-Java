@@ -1,4 +1,4 @@
-package ConceptAbstract;
+package Abstraction;
 
 public class Circle extends Shape {
     private final double radius;

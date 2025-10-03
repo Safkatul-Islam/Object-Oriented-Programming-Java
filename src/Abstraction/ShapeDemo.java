@@ -1,4 +1,4 @@
-package ConceptAbstract;
+package Abstraction;
 
 public class ShapeDemo {
     public static void main(String[] args) {

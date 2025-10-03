@@ -1,4 +1,4 @@
-package ConceptAbstract;
+package Abstraction;
 
 public abstract class Shape {
     protected String color;

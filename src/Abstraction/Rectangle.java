@@ -1,4 +1,4 @@
-package ConceptAbstract;
+package Abstraction;
 
 public class Rectangle extends Shape{
     private double width;
